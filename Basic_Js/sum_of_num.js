@@ -8,3 +8,6 @@ function sumofnum(a, b) {
     console.log(sum)
 }
 sumofnum(2, 3)
+
+const sums = (a, b) => a+b;
+console.log(sums(4,2))
